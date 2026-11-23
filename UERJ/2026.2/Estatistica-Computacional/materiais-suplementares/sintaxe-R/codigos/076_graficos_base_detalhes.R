@@ -1,0 +1,17 @@
+pdf("imagens/r_base_detalhes.pdf", width = 6.4, height = 2.6)
+layout(matrix(1:2, nrow = 1), widths = c(1.2, 1))
+par(mar = c(4, 4, 1.5, 0.5), cex.main = 0.9)
+plot(mpg ~ wt, data = mtcars, type = "n", main = "camadas no R base",
+     xlab = "Peso (1.000 lb)", ylab = "mpg")
+cores <- c("4" = "#3333B2", "6" = "#AD841F", "8" = "#F9423A")
+points(mtcars$wt, mtcars$mpg, pch = 19, col = adjustcolor(cores[as.character(mtcars$cyl)], 0.7))
+abline(h = mean(mtcars$mpg), lty = 2)
+text(1.9, mean(mtcars$mpg) - 1.5, "média", cex = 0.8)
+legend("topright", legend = names(cores), col = cores, pch = 19, title = "cil.", bty = "n", cex = 0.8)
+x <- seq(0, 10, by = 0.5)
+plot(x, sqrt(x), type = "l", lwd = 2, col = "#3333B2", main = "lines() e curve()", ylab = "y")
+lines(x, log1p(x), lwd = 2, lty = 2, col = "#F9423A")
+curve(x / 4, add = TRUE, col = "#2E8B57", lwd = 2)
+legend("topleft", c("sqrt(x)", "log(1 + x)", "x / 4"), lty = c(1, 2, 1),
+       col = c("#3333B2", "#F9423A", "#2E8B57"), lwd = 2, bty = "n", cex = 0.8)
+invisible(dev.off())
