@@ -1,5 +1,7 @@
 # ENCE — Escola Nacional de Ciências Estatísticas (IBGE)
 
-Materiais em preparação. Cada período letivo terá uma subpasta (ex.: `2027.1/`) e, dentro dela, uma pasta por disciplina.
+| Período | Disciplina | Pasta |
+|---|---|---|
+| 2018.2 | Introdução à Estatística | [2018.2/Introducao-a-Estatistica](2018.2/Introducao-a-Estatistica/) |
 
 [Voltar ao início](../README.md)
