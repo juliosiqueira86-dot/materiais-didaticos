@@ -9,6 +9,8 @@ Turma 1 · Ciências Atuariais · seg 18:00–21:20 · sala 6105-2
 
 ## Materiais suplementares
 
+- [Sintaxe R com exemplos aplicados](materiais-suplementares/sintaxe-R/): slides de apoio com toda a sintaxe usada na disciplina.
+
 Ver a pasta [materiais-suplementares](materiais-suplementares/), com o [estudo de caso de homicídios no RJ](materiais-suplementares/estudo-de-caso-homicidios-RJ/), material gentilmente cedido por Marcello M. Provenza.
 
 [Voltar](../README.md)
