@@ -1,5 +1,7 @@
 # Fiocruz — Fundação Oswaldo Cruz
 
-Materiais em preparação. Cada período letivo terá uma subpasta (ex.: `2027.1/`) e, dentro dela, uma pasta por disciplina.
+| Período | Disciplina | Curso | Pasta |
+|---|---|---|---|
+| Junho de 2019 | Estatística | Mestrado Profissional em Tecnologia de Imunobiológicos (turma MPTI2019) | [2019-06/Estatistica-MPTI](2019-06/Estatistica-MPTI/) |
 
 [Voltar ao início](../README.md)
