@@ -1,7 +1,9 @@
 # Materiais suplementares — Estatística Computacional
 
-Materiais de apoio à disciplina (bases de dados, scripts, textos complementares).
+| Material | Pasta |
+|---|---|
+| Estudo de caso: homicídios no Rio de Janeiro (ISP-RJ, 2000–2019) — material cedido por Marcello M. Provenza | [estudo-de-caso-homicidios-RJ](estudo-de-caso-homicidios-RJ/) |
 
-Ainda não há arquivos nesta pasta. Os livros e textos recomendados estão na bibliografia dos slides.
+Os livros e textos recomendados estão na bibliografia dos slides.
 
 [Voltar](../README.md)
