@@ -1,5 +1,11 @@
 # UFRRJ — Universidade Federal Rural do Rio de Janeiro
 
-Materiais em preparação. Cada período letivo terá uma subpasta (ex.: `2027.1/`) e, dentro dela, uma pasta por disciplina.
+Campus Nova Iguaçu.
+
+| Período | Pasta |
+|---|---|
+| 2025.1 | [2025.1](2025.1/) |
+| 2024.2 | [2024.2](2024.2/) |
+| 2024.1 | [2024.1](2024.1/) |
 
 [Voltar ao início](../README.md)
