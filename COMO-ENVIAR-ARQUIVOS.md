@@ -15,7 +15,7 @@ Não precisa instalar nada: tudo é feito no navegador, logado na conta **julios
 
 O GitHub não guarda pastas vazias: a pasta é criada junto com o primeiro arquivo.
 
-1. Entre na pasta "mãe" (ex.: `FGV`).
+1. Entre na pasta "mãe" (ex.: `UFRRJ`).
 2. Clique em **Add file** → **Create new file**.
 3. No nome do arquivo, digite o caminho com barras, por exemplo: `2027.1/Estatistica-I/README.md`
    (cada `/` cria uma pasta).
