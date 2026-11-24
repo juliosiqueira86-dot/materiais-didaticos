@@ -42,7 +42,7 @@ Copie o código acima e cole na opção **Pix Copia e Cola** do aplicativo do se
 | Instituição | Pasta |
 |---|---|
 | UERJ — Universidade do Estado do Rio de Janeiro | [UERJ](UERJ/) |
-| Fiocruz — Fundação Oswaldo Cruz | [Fiocruz](Fiocruz/) |
+| Fiocruz — Fundação Oswaldo Cruz | [FIOCRUZ](FIOCRUZ/) |
 | ENCE — Escola Nacional de Ciências Estatísticas (IBGE) | [ENCE](ENCE/) |
 | UFRRJ — Universidade Federal Rural do Rio de Janeiro | [UFRRJ](UFRRJ/) |
 
