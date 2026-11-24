@@ -1,0 +1,18 @@
+# Avisa os alunos (app de presença) quando entra arquivo novo na pasta de uma disciplina.
+# O app confere cada commit na API pública do GitHub antes de avisar; nada sensível é enviado.
+name: Avisar alunos sobre arquivos novos
+on:
+  push:
+    branches: [main]
+    paths: ["UERJ/**"]
+jobs:
+  avisar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Avisar o app de presença
+        env:
+          SHAS: ${{ toJson(github.event.commits.*.id) }}
+        run: |
+          curl -sS -X POST "https://presenca-julio.vercel.app/api/avisos/arquivo" \
+            -H "content-type: application/json" \
+            -d "{\"shas\": $SHAS}"
