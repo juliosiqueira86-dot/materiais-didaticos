@@ -17,6 +17,7 @@ Prof. Julio C. Siqueira — Universidade Federal Rural do Rio de Janeiro.
 | Lista | Arquivo | Páginas |
 |---|---|---|
 | 1ª lista de exercícios (setembro de 2024) | [Lista_1.pdf](listas-de-exercicios/Lista_1.pdf) | 10 |
+| 2ª lista de exercícios (outubro de 2024): probabilidade | [Lista_2.pdf](listas-de-exercicios/Lista_2.pdf) | 5 |
 | 3ª lista de exercícios (novembro de 2024) | [Lista_3.pdf](listas-de-exercicios/Lista_3.pdf) | 9 |
 
 Tabelas estatísticas (normal padrão, t de Student, qui-quadrado e F), geradas no R: [Tabelas_Estatisticas.pdf](../../../ENCE/2017.1/Introducao-a-Estatistica/tabelas-estatisticas/Tabelas_Estatisticas.pdf).
