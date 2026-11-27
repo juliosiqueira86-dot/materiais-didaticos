@@ -6,6 +6,12 @@ organizados por instituição e período letivo.
 - Currículo Lattes: <https://lattes.cnpq.br/1968914053746315>
 - Endereço deste repositório: <https://github.com/juliosiqueira86-dot/materiais-didaticos>
 
+<div align="center">
+
+<a href="https://lattes.cnpq.br/1968914053746315"><img src="assets/vcard-lattes.png" alt="Cartão de visita do Currículo Lattes de Julio Cesar Siqueira, com QR code para o currículo" width="300"></a>
+
+</div>
+
 ---
 
 <div align="center">
