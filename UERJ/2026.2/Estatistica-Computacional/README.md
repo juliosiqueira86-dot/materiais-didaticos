@@ -15,7 +15,7 @@ Turma 1 · Ciências Atuariais · seg 18:00–21:20 · sala 6105-2
 
 | Lista | Tema | Entrega | Data de entrega |
 |---|---|---|---|
-| [Lista 1](listas-de-exercicios/Lista_1_Regressao_Interpretacao.pdf) | Regressão linear múltipla: interpretação de resultados | Impressa, em aula | Informada em aula |
+| [Lista 1](listas-de-exercicios/Lista_1_Regressao_Interpretacao.pdf) | Regressão linear múltipla: interpretação de resultados | Impressa, em aula | ⚠️ **Até 25/01/2027, impreterivelmente** |
 | [Lista 2](listas-de-exercicios/Lista_2_Exercicios_dos_Slides.pdf) | Exercícios computacionais dos slides: probabilidade, inferência e modelos | Presencial, com apresentação ao professor | ⚠️ **Até 25/01/2027, impreterivelmente** |
 
 Veja tudo o que deve ser entregue na [página de entregas](ENTREGAS.md).
