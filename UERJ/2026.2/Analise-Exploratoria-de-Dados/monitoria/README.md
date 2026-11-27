@@ -13,7 +13,12 @@ Turma 2 · Prof. Julio C. Siqueira
 
 Monitor: **Arthur**.
 
-Há também acesso à monitoria pelo **AVA** (Ambiente Virtual de Aprendizagem da UERJ). O QR code de acesso está no quadro oficial de horários da monitoria.
+## Monitoria pelo AVA
+
+<img src="qr_ava_monitoria.png" alt="QR code de acesso à monitoria no AVA da UERJ" width="180">
+
+Aponte a câmera do celular para o QR code ou acesse: <https://ava.pr1.uerj.br/course/view.php?id=2283>.
+É preciso estar conectado ao AVA (Ambiente Virtual de Aprendizagem da UERJ) com o seu acesso da UERJ.
 
 ## Como aproveitar a monitoria
 

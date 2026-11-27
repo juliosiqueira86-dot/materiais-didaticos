@@ -3,7 +3,7 @@
 Turma 2 · Ciências Atuariais / Estatística · ter/qui 19:40–21:20 · sala 6032
 
 > ### 🧑‍🏫 [Monitoria](monitoria/): sala 6088F
-> **Terças, 14:20–17:50** · **Quintas, 14:20–17:00** · Monitor: Arthur · Também pelo AVA.
+> **Terças, 14:20–17:50** · **Quintas, 14:20–17:00** · Monitor: Arthur · Também pelo [AVA](https://ava.pr1.uerj.br/course/view.php?id=2283) (QR code na [página da monitoria](monitoria/)).
 > [Ficha da monitoria (PDF)](monitoria/Monitoria_AED_2026-2.pdf)
 
 ## Slides
