@@ -3,6 +3,11 @@
 Repositório público com os materiais das disciplinas ministradas pelo **Prof. Julio C. Siqueira**,
 organizados por instituição e período letivo.
 
+<p align="left">
+  <a href="#apoie-este-projeto"><img src="https://img.shields.io/badge/Apoie_este_projeto-Pix-32BCAD?style=for-the-badge&logo=pix&logoColor=white" alt="Apoie este projeto via Pix"></a>
+  <a href="https://lattes.cnpq.br/1968914053746315"><img src="https://img.shields.io/badge/Curr%C3%ADculo-Lattes-1351B4?style=for-the-badge" alt="Currículo Lattes"></a>
+</p>
+
 - Currículo Lattes: <https://lattes.cnpq.br/1968914053746315>
 - Endereço deste repositório: <https://github.com/juliosiqueira86-dot/materiais-didaticos>
 
@@ -14,25 +19,34 @@ organizados por instituição e período letivo.
 
 ---
 
-<div align="center">
+## Apoie este projeto
 
-### Apoie este projeto
-
-<img src="assets/apoie-pix.png" alt="QR code Pix para apoiar o repositório de materiais didáticos" width="220">
-
-*Todo o conteúdo deste repositório é aberto e gratuito, e continuará sendo.*
-
-Se estes materiais ajudaram nos seus estudos, nas suas aulas ou no seu trabalho, considere fazer uma
-contribuição voluntária, de qualquer valor, pelo Pix acima.<br>
-Cada apoio ajuda a manter o repositório atualizado, a produzir novos slides, listas e scripts
-e a ampliar este acervo para mais estudantes.
-
-**Obrigado por fazer parte desta construção coletiva do conhecimento.**
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="300">
+      <img src="assets/apoie-pix.png" alt="QR code Pix para apoiar o repositório de materiais didáticos" width="260"><br>
+      <sub><b>Aponte a câmera do app do seu banco</b></sub>
+    </td>
+    <td>
+      <h3>💚 Estes materiais te ajudaram?</h3>
+      <p>
+        Todo o conteúdo deste repositório é <b>aberto e gratuito</b>, e continuará sendo.
+      </p>
+      <p>
+        Se os slides, listas e scripts foram úteis nos seus estudos, nas suas aulas ou no seu trabalho,
+        considere uma <b>contribuição voluntária, de qualquer valor</b>, pelo Pix ao lado.
+      </p>
+      <p>
+        Cada apoio ajuda a manter o repositório atualizado, a produzir novos materiais
+        e a levar este acervo a mais estudantes.
+      </p>
+      <p><i>Obrigado por fazer parte desta construção coletiva do conhecimento.</i></p>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary>Está no celular? Use o Pix Copia e Cola</summary>
+<summary><b>Está no celular? Toque aqui para usar o Pix Copia e Cola</b></summary>
 
 ```
 00020126580014br.gov.bcb.pix01367ebcfa65-c45b-4999-90aa-d80c1c7f38b65204000053039865802BR5920JULIO CESAR SIQUEIRA6009Sao Paulo62290525REC6B0483E9C348D1745922976304F6E0
